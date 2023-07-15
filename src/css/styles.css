@@ -19,3 +19,22 @@
         transform: rotate(360deg);
     }
 }
+
+.breed-select {
+    margin: 15px;
+    max-width: 480px;
+}
+
+.cat-info {
+
+    padding: 15px;
+    width: 480px
+}
+
+.cat-img {}
+
+.cat-name {}
+
+.cat-description {}
+
+.cat-temperament {}
